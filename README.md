@@ -79,9 +79,10 @@ We still consider LoopAR in alpha phase, This is currently under the status of M
 We will always push the stable changes to the public LoopAR repository
 
 ## Builded version
--you can download the standalone VR version [here](https://drive.google.com/file/d/1bBagKateS1WYV0HRvFxZbwWId148Rayk/view?usp=sharing)
 
--you can download the standalone non VR version [here](https://drive.google.com/file/d/1bBagKateS1WYV0HRvFxZbwWId148Rayk/view?usp=sharing)
+> The VR build will be uploaded soon
+
+-you can download the standalone non VR version [here](https://drive.google.com/open?id=1cI27SoDzICeDB__8qfT2JvsEZ97vmutq)
 
 ## Build prepration
 in the following section, it is explained how you can clone and improt the project for build and developement inside Unity environment.
